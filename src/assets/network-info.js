@@ -1,9 +1,9 @@
 const Network = {
-  chainId: 56,
-  chainName: 'BSC Mainnet',
-  nativeCurrency: { name: 'BNB', decimals: 18, symbol: 'BNB' },
-  rpcUrls: ['https://bsc-dataseed1.ninicoin.io/'],
-  blockExplorerUrls: ['https://bscscan.com/'],
+  chainId: 5045380,
+  chainName: 'MYdymension',
+  nativeCurrency: { name: 'hamed', decimals: 18, symbol: 'hamed' },
+  rpcUrls: ['https://hamedche.myrollup.xyz/evm'],
+  blockExplorerUrls: ['https://explorer.silknodes.io/testnet-dymension/'],
 };
 
 export default Network;
