@@ -94,7 +94,7 @@ export default function TitleBar(props) {
                   )}
                   <Link
                     isExternal
-                    href={`https://bscscan.com/address/${props.userInfo.account}`}
+                    href={`https://explorer.silknodes.io/testnet-dymension/${props.userInfo.account}`}
                   >
                     {props.userInfo.account}
                   </Link>
