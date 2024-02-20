@@ -1,5 +1,5 @@
 const Contract = {
-  cnt: '0x0000000000000000000000000000000000000000', //TODO contract ref
+  cnt: '0xc053c87acd9f248c90f9c3a7f87694b445695e2a', //TODO contract ref
   abi: [
     {
       inputs: [
